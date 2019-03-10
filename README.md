@@ -2,7 +2,7 @@
 Homework 5 - Matplotlib
 
 **Contents:**  
-* **Heroes of Pymoli/**  
+* **Pyber**  
   * .ipynb_checkpoints/  
     * pyber-checkpoint.ipynb  
   * data/  
