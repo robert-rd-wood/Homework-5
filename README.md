@@ -13,4 +13,5 @@ Homework 5 - Matplotlib
     * drivers_by_type.png  
     * fares_by_type.png  
     * rides_by_type.png  
+  * Pyber-report.docx  
   * pyber.ipynb
