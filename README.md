@@ -2,9 +2,7 @@
 Homework 5 - Matplotlib
 
 **Contents:**  
-* **Pyber**  
-  * .ipynb_checkpoints/  
-    * pyber-checkpoint.ipynb  
+* **Pyber/**  
   * data/  
     * city_data.csv  
     * ride_data.csv  
@@ -14,4 +12,15 @@ Homework 5 - Matplotlib
     * fares_by_type.png  
     * rides_by_type.png  
   * Pyber-report.docx  
-  * pyber.ipynb
+  * pyber.ipynb  
+* **Pymaceuticals/**   
+  * data/  
+    * clinicaltrial_data.csv  
+    * mouse_drug_data.csv  
+  * output/  
+    * met_sites.png  
+    * summary_bar.png  
+    * survival_rate.png  
+    * tumor_response.png  
+  * Pymaceuticals-report.docx  
+  * pymaceuticals.ipynb 
