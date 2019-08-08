@@ -1,10 +1,10 @@
 # Matplotlib Practice
 
-**Description**  
-
 **Pyber**  
 
 Analysis performed on a sample ride-sharing data set using Python and pandas, and visualizations created using matplotlib.  
+
+---
 
 Bubble Plot showing the relationship between four key variables:  
   * Average Fare ($) Per City  
@@ -32,11 +32,13 @@ Percent of Total Drivers by City Type
 
 ![alt text](Pyber/output/drivers_by_type.png "Drivers by City Type")  
 
---
+---
 
 **Pymaceuticals**  
 
 Analysis performed on a sample pharmaceutical data set using Python and pandas, and visualizations created using matplotlib.  
+
+---
 
 Number of metastatic sites over time for each treatment  
 
